@@ -1,0 +1,255 @@
+h1 
+{color:rgb(2, 3, 49);
+  font-size:20pt; 
+  font-family:'Times New Roman', Times, serif; 
+} 
+ 
+a  
+     { 
+        font-size:20pt; 
+        padding-right: 23px; 
+        padding-left: 20px;
+        font-family:Georgia, 'Times New Roman', Times, serif; 
+        text-decoration:none; 
+        color:white; 
+ 
+     } 
+     a:hover  
+          {  
+            font-size: 21pt; 
+            font-family:Impact; 
+            color :navy; 
+            background-color:powderblue; 
+          } 
+           
+.logo 
+     { 
+       width:31%; 
+       height:100px; 
+       background-color:rgb(4, 89, 122); 
+       float:left; 
+ 
+     } 
+ 
+.menu 
+     { 
+       width: 69%; 
+       height:100px; 
+       background-color:rgb(13, 99, 133); 
+       float:left; 
+ 
+     } 
+ 
+.slider
+{ 
+  width:100%; 
+  height:800px; 
+  background-color:rgb(204, 212, 230); 
+  float:left;
+} 
+
+
+.slider1
+{ 
+  width:100%; 
+  height:350px; 
+  background-color:rgb(175, 201, 228); 
+  float:left;
+}
+
+.slider2
+{ 
+  width:75%; 
+  height:300px; 
+  background-color:rgb(204, 212, 230); 
+  float:left;
+} 
+
+.box1
+{
+  width:25%; 
+  height:900px; 
+  background-color:rgb(212, 221, 230); 
+  float:right; 
+}
+
+.center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+
+.slider3
+{
+  width:75%; 
+  height:600px; 
+  background-color:rgb(184, 195, 243); 
+  float:left; 
+}
+
+.box2
+{
+  width:25%; 
+  height:2520px; 
+  background-color:rgb(212, 221, 230); 
+  float:right; 
+}
+
+.center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+.slider4
+{
+  width:75%; 
+  height:600px; 
+  background-color:rgb(204, 212, 230); 
+  float:left; 
+}
+
+
+table, tr, td, th 
+{ 
+  border: 2px solid black; 
+  border-collapse: collapse; 
+ 
+} 
+ 
+table 
+{ 
+  width: 700px; 
+   
+} 
+ 
+tr 
+ 
+{ 
+background-color:rgb(123, 215, 221); 
+color:black; 
+ 
+} 
+ 
+tr:nth-child(odd) 
+ 
+{ 
+  background-color:rgb(53, 173, 182) 
+ 
+} 
+ 
+tr:hover 
+{ 
+  background-color:rgb(182, 209, 224) 
+ 
+} 
+ 
+td 
+{  
+  padding:  5px; 
+ 
+}
+
+
+
+.slider5
+{
+  width:100%; 
+  height:2280px; 
+  background-color:rgb(184, 195, 243); 
+  float:left; 
+}
+
+.center1
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.center2
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 270px;
+}
+
+.slider6
+{
+  width:75%; 
+  height:650px; 
+  background-color:rgb(204, 212, 230); 
+  float:left; 
+}
+
+
+.slider7
+{
+  width: 74.6%; 
+  height:700px; 
+  background-color:rgb(184, 195, 243); 
+  float:left; 
+  padding-left: 5.3px;
+}
+
+.box3
+{
+  width:25%; 
+  height:1350px; 
+  background-color:rgb(212, 221, 230); 
+  float:right; 
+}
+
+.center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+
+.box4
+{
+  width:25%; 
+  height:850px; 
+  background-color:rgb(212, 221, 230); 
+  float:right; 
+}
+
+.center 
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+}
+
+.slider8
+{
+  width:75%; 
+  height:375px; 
+  background-color:rgb(204, 212, 230); 
+  float:left; 
+}
+
+.slider9
+{
+  width:75%; 
+  height:270px; 
+  background-color:rgb(184, 195, 243); 
+  float:left; 
+}
+
+.slider10
+{
+  width:75%; 
+  height:205px; 
+  background-color:rgb(204, 212, 230); 
+  float:left; 
+}
